@@ -1,21 +1,21 @@
 <h3 align="left">Languages</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="js" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="ts" width="55" height="55"/>
 
 <h3 align="left">Front-end/Primary</h3>
 <p align="left">
-  <img src="https://raw.ithub.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="angular" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="less" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/karma/karma-original.svg" alt="karma" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jasmine/jasmine-plain.svg" alt="jasmine" width="55" height="55"/>
 
